@@ -1,0 +1,16 @@
+Persöhnlichkeits Test python
+
+Klasse für Fragen:
+	FragenString 
+	persönlichkeitsSpalte 1
+	persönlichkeitsSpalte 2
+	umgekehrtePersönlichkeitsSpalte
+
+Liste/Array mit der Klasse Fragen (optimal mit csv Datei einlessen)
+in schleife bis zum Ende durchlaufen lassen
+
+Feld von 0 - 9 wird immer an den Stellen aufgefüllt waas die Fragen attribute sagen(summe aus allen)
+
+Ende : Feld wird ausgegeben und Link zur Beschreibung wird ausgegeben
+
+
